@@ -1,3 +1,4 @@
+
 const startButton = document.querySelector('button[data-start]');
 const dateTimePicker = document.querySelector('#datetime-picker');
 const daysValue = document.querySelector('[data-days]');
